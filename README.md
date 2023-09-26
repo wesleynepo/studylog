@@ -6,3 +6,4 @@ DD-MM-YYYY - Subject - Resource - Link
 
 
 18-09-2023 - Desing System - Scalability - https://youtu.be/-W9F__D3oY4?t=1575
+25-09-2023 - Desing System - Scalability - https://youtu.be/-W9F__D3oY4?t=4139
